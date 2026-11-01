@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="ev-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffedd5" />
+      <stop offset="50%" stop-color="#f97316" />
+      <stop offset="100%" stop-color="#c2410c" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0b0f17" />
+  <rect x="1" y="1" width="62" height="62" rx="13" fill="none" stroke="#f97316" stroke-opacity="0.3" stroke-width="1.5" />
+  <!-- Electric vehicle lightning bolt + analytics chart silhouette -->
+  <path d="M36 8 L18 34 L31 34 L26 56 L46 28 L33 28 Z" fill="url(#ev-grad)" />
+  <circle cx="48" cy="48" r="3" fill="#fb923c" />
+  <circle cx="54" cy="42" r="2" fill="#fdba74" />
+</svg>
